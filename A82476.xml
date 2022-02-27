@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of indempnity and free pardon. Tuesday, July 12. 1659. Ordered by the Parliament; that this Act be forthwith printed and published. Thomas St. Nicholas Clerk of the Parliament.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82476</idno>
+            <idno type="STC">Wing E1145</idno>
+            <idno type="STC">Thomason E1074_9</idno>
+            <idno type="STC">ESTC R208299</idno>
+            <idno type="EEBO-CITATION">99867259</idno>
+            <idno type="PROQUEST">99867259</idno>
+            <idno type="VID">169320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169320)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of indempnity and free pardon. Tuesday, July 12. 1659. Ordered by the Parliament; that this Act be forthwith printed and published. Thomas St. Nicholas Clerk of the Parliament.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 12, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field and Henry Hills, printers to the Parliament. And are to be sold at the seven Stars in Fleet-street, over against Dunstans Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotations on Thomason copy: "England Parliamentary Proceedings II 12 July 1659".</note>
+                  <note>Title woodcut; initial letter; text in black letter.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clemency --  England --  Early works to 1800.</term>
+               <term>Indemnity --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169320:1" rendition="simple:additions"/>
+            <p>AN ACT OF INDEMPNITY AND Free Pardon.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Tueſday, July 12. 1659.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Thomas</hi> St. <hi>Nicholas</hi> Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Field</hi> and <hi>Henry Hills,</hi> Printers to the Parliament.</p>
+            <p>And are to be ſold at the ſeven Stars in <hi>Fleet-ſtreet,</hi> over againſt <hi>Dunſtans</hi> Church, 1659.</p>
+            <pb facs="tcp:169320:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:169320:2"/>
+            <head>AN ACT OF INDEMPNITY AND Free Pardon.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T having pleaſed Almighty God, after a violent &amp; illegal Interruption, to reſtore the Parliament of this Common<g ref="char:EOLhyphen"/>wealth to its former Station, and with it to revive and re<g ref="char:EOLhyphen"/>eſtabliſh the Government of theſe Nations in the way of a Free State, without a King, Single Perſon, or Houſe of Peers. And whereas, during the ſaid Interruption, and the various Changes and Alterations which followed, many things have been Attempt<g ref="char:EOLhyphen"/>ed, Done, and Acted, inconſiſtent with the Intereſt of this Commonwealth, and con<g ref="char:EOLhyphen"/>trary to Law, of which notwithſtanding, the Parliament being deſirous, by all good ways and means, and with all convenient ſpeed, to remove all Iealouſies, Doubts, Diſtruſts, and Fears, which may remain upon the
+<pb n="2" facs="tcp:169320:3"/>
+hearts of many of the people of theſe Nati<g ref="char:EOLhyphen"/>ons, in reference to ſuch their by-paſt Act<g ref="char:EOLhyphen"/>ings; and that their Mindes, Perſons, and Eſtates, may be Compoſed, Quieted, Set<g ref="char:EOLhyphen"/>led, and Secured; and all Diſputes, Que<g ref="char:EOLhyphen"/>ſtions, and Troubles thereupon ariſing, and all diſpleaſure and evil will thereby occaſion<g ref="char:EOLhyphen"/>ed, may be Annulled, Extinguiſhed, and bu<g ref="char:EOLhyphen"/>ried in perpetual Oblivion, ſo that the Go<g ref="char:EOLhyphen"/>vernment now again reſtored, may be chear<g ref="char:EOLhyphen"/>fully complyed with,</p>
+            <p>Have Enacted and Ordained, and be it Enacted and Ordained by this Preſent Par<g ref="char:EOLhyphen"/>liament, and by the Authority of the ſame, That all and every perſon and perſons, Bo<g ref="char:EOLhyphen"/>dies Politique and Corporate, of or within <hi>England, Scotland,</hi> and <hi>Ireland,</hi> or any of them, or the Dominions and Territories to them or any of them belonging, or appertaining, who have at any time ſince the nineteenth of <hi>April,</hi> in the year of our Lord One thouſand ſix hundred fifty three, and before the firſt of <hi>June,</hi> One thouſand ſix hundred fifty nine, Adviſed, Counſelled, Acted or done, or Com<g ref="char:EOLhyphen"/>manded, or appointed to be acted or done, or have conſented to, permitted or ſuffered to be acted and done, any matter or thing what<g ref="char:EOLhyphen"/>ſoever, tending to or concerning any change or alteration of the Government of theſe Nations, from a Commonwealth or Free-State, or tending to the abetting or countenan<g ref="char:EOLhyphen"/>cing ſuch change or alteration, or in pur<g ref="char:EOLhyphen"/>ſuance of ſuch change or alteration, or by vertue or colour of any Authority derived mediately or immediately of or from any con<g ref="char:EOLhyphen"/>vention
+<pb n="3" facs="tcp:169320:3"/>
+or aſſembly called or reputed a Par<g ref="char:EOLhyphen"/>liament; or by vertue or colour of any Writ, Commiſſion, Letters Patents, Inſtructi<g ref="char:EOLhyphen"/>on or Inſtructions, of or from any perſon or perſons, Tituled, Reputed or taken to be Lord Protector or Chief Magiſtrate of this Commonwealth, or Commander in Chief of the Forces or Armies of this Common<g ref="char:EOLhyphen"/>wealth, or by any other Pretence, Warrant, Command or Commands whatſoever, from them or any of them, or their or either of their reſpective Councils, or any Member of ſuch Council or Councils, or from any other per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever, Deriving Autho<g ref="char:EOLhyphen"/>rity from them or any of them; That all and every ſuch perſon and perſons, and all ſuch Counſellors, Adviſors, Actors and abet<g ref="char:EOLhyphen"/>tors, their Heirs, Executors, and Adminiſtra<g ref="char:EOLhyphen"/>tors of them and every of them, and all Bo<g ref="char:EOLhyphen"/>dies. Corporate and Politique, and their Succeſſors, for ever ſhall be and are hereby fully acquitted, pardoned, releaſed, indemp<g ref="char:EOLhyphen"/>nified, diſcharged, and ſaved harmleſs, of and from all, and all manner of Treaſons, Miſpriſions of Treaſons, Offences, Crimes and Miſdemeanors whatſoever, by them, or any of them committed, acted, done, ſuffered or conſented unto, of what nature quality or kinde ſoever the perſons or crimes be, or may be deemed, in reference to the ſeveral changes in Government and actings thereupon, as aforeſaid, ſince the firſt day of <hi>April,</hi> in the year of our Lord One thouſand ſix hundred fifty three, and before the firſt day of <hi>June,</hi>
+               <pb n="4" facs="tcp:169320:4"/>
+One thouſand ſix hundred fifty nine, and of all and all manner of Indictments, Im<g ref="char:EOLhyphen"/>peachments, Informations, Actions, Suits, Proſecutions, Iudgements, Executions, Moleſtations and Demands whatſoever, for or by reaſon of or concerning the ſame, be it either for or on the behalf of the Keepers of the Liberty of <hi>England,</hi> by Authority of Par<g ref="char:EOLhyphen"/>liament, or the Parliament of this Common<g ref="char:EOLhyphen"/>wealth, or by, for, or on the behalf of any perſon or perſons whatſoever, for or concern<g ref="char:EOLhyphen"/>ing the ſame.</p>
+            <p>And alſo, Be it Enacted, by the Authority aforeſaid, That this Act and Free Pardon ſhall be as good and effectual in the Law, to every the perſons aforeſaid, in, for, concerning and againſt all things before mentioned or in<g ref="char:EOLhyphen"/>tended, as the ſame Pardon ſhould have been, if all and every the offences, Offenders, Crimes, Cauſes, Matters, Indictments, Impeachments, Informations, Actions, Suits, Quarrels, Iudgements, Executi<g ref="char:EOLhyphen"/>ons, Penalties, and all other things herein contained, or concerned, had been particular<g ref="char:EOLhyphen"/>ly, ſpecially and plainly named, rehearſed and ſpecified, and alſo Acquitted, Pardoned and diſcharged, by proper and expreſs words and names in their kindes, natures and qualities, by words and terms thereunto requiſite to have been put in and expreſſed in this pre<g ref="char:EOLhyphen"/>ſent Act of Free Pardon.</p>
+            <p>And furthermore, That the ſaid Pardon by the General Words, Clauſes, and Sen<g ref="char:EOLhyphen"/>tences before rehearſed, ſhall be Reputed,
+<pb n="5" facs="tcp:169320:4"/>
+Deemed, Adjudged, Expounded, Allowed, and taken in all manner of Courts of Iu<g ref="char:EOLhyphen"/>ſtice, and elſewhere, moſt beneficial and avail<g ref="char:EOLhyphen"/>able to all and ſingular the perſons before Meant, Mentioned, or Intended, and to every of them, without any Ambiguity, Que<g ref="char:EOLhyphen"/>ſtion or Delay whatſoever, to be Made, Pleaded, Objected, or Alledged, by the At<g ref="char:EOLhyphen"/>tourney General of the Commonwealth, or by any perſon or perſons, for, or on the be<g ref="char:EOLhyphen"/>half of the ſaid Keepers of the Liberty of <hi>England,</hi> or on the behalf of the Parliament, or on the behalf of any other perſon or per<g ref="char:EOLhyphen"/>ſons whatſoever.</p>
+            <p>And be it further Enacted and Declared, That all Fines, Recoveries, Verdicts, Iudgements, Statutes, Recognizances, Inquiſitions, Indictments, Preſentments, Informations, Decrees, Sentences, Pro<g ref="char:EOLhyphen"/>bates of Wills, Granting of Letters of Ad<g ref="char:EOLhyphen"/>miniſtration, Writs, Returns of Writs, Or<g ref="char:EOLhyphen"/>ders, Acts, and other Proceedings relating to the adminiſtration of Iuſtice, according to Law or Equity, had, made, given, taken, or done, or Depending in the Courts of Chancery, Vpper-Bench, Common-Pleas, and Court of Exchequer, by any the Com<g ref="char:EOLhyphen"/>miſſioners, Iudges, Sheriffs, Coroners, or Miniſters thereof reſpectively, or by any other the Iudges, Commiſſioners, or Mi<g ref="char:EOLhyphen"/>niſters of any Court of Record, Court of Admiralty, or Delegates, or other Court of Law or Equity, or by, or upon Commiſſi<g ref="char:EOLhyphen"/>ons of Aſſize, and Niſi prius of Oyer and
+<pb n="6" facs="tcp:169320:5"/>
+Terminer, Goal-Delivery, Commiſſions of the Peace, or upon any Commiſſion of Sewers, Bankrupts, Charitable Vſes, or other Commiſſions relating as aforeſaid, and all Proceſs and Proceedings therein, or there<g ref="char:EOLhyphen"/>upon had, made, given, done, or ſuffered in <hi>England, Scotland,</hi> or <hi>Ireland,</hi> or either of them, or the Dominions and Territories to them, or either of them belonging or apper<g ref="char:EOLhyphen"/>taining, ſince the Nineteenth day of <hi>April,</hi> in the year of our Lord, One thouſand ſix hundred fifty three, and before the Firſt day of <hi>June,</hi> One thouſand ſix hundred fifty nine, ſhall not be queſtioned, or avoided for want of Legal Power in the ſaid Commiſſioners, Iudges, and Miniſters reſpectively, or by reaſon of the Change or Alteration of the Name, Stile, Title, or Teſte of Writs, Proceſs or Proceedings; or that they have not been in the Name of, or before the Keep<g ref="char:EOLhyphen"/>ers of the Liberties of <hi>England,</hi> by autho<g ref="char:EOLhyphen"/>rity of Parliament, but that ſuch Fines, Recoveries, Verdicts, Iudgements, Sta<g ref="char:EOLhyphen"/>tutes, Commiſſions, Recognizances, In<g ref="char:EOLhyphen"/>quiſitions, Indictments, Preſentments, Informations, Decrees, Sentences, Pro<g ref="char:EOLhyphen"/>bates of Wills, Adminiſtrations, Writs, Returns, Proceſs, and Proceedings, Or<g ref="char:EOLhyphen"/>ders, Acts, and Things as aforeſaid, ſhall be of ſuch, and of none other Force, Effect, and Vertue, then as if ſuch Commiſſioners, Iudges, and Miniſters reſpectively, had Acted by vertue of a True, Iuſt, Legal Power and Authority.</p>
+            <p>
+               <pb n="7" facs="tcp:169320:5"/>
+Provided always, That this Act ſhall not extend to confirm or make good any pre<g ref="char:EOLhyphen"/>tended Title of Honor, Dignity or Knight<g ref="char:EOLhyphen"/>hood, pretended to be conferred, given or granted by Writ, Patent or otherwiſe, to any perſon or perſons within <hi>England, Scot<g ref="char:EOLhyphen"/>land</hi> or <hi>Ireland,</hi> or the Dominions and Ter<g ref="char:EOLhyphen"/>ritories thereunto belonging, ſince the ſaid nineteenth day of <hi>April,</hi> in the year of our Lord one thouſand ſix hundred fifty and three, and before the ſaid ſeventh day of <hi>May,</hi> in the year of our Lord one thouſand ſix hundred fifty nine; But that all and every ſuch pretended Titles of Honor, Dig<g ref="char:EOLhyphen"/>nities and Knighthood, are hereby decla<g ref="char:EOLhyphen"/>red to be null and void.</p>
+            <p>Provided alſo and be it Enacted, That thoſe Perſons who were eſteemed and ta<g ref="char:EOLhyphen"/>ken to be Commiſsioners of the publique Treaſury, by colour or pretence of any Grant of that Office made unto them ſince the nineteenth of <hi>April,</hi> in the year of our Lord one thouſand ſix hundred fifty three, and before the ſeventh day of <hi>May,</hi> in the year of our Lord one thouſand ſix hundred fifty nine, ſhall be and are here<g ref="char:EOLhyphen"/>by Indempnified and Pardoned for ſuch Acts as have been done by them in pur<g ref="char:EOLhyphen"/>ſuance or pretence of that Authority for the bringing in and iſſuing out of the pub<g ref="char:EOLhyphen"/>lique Revenue of the Nation.</p>
+            <p>Provided alſo, That this Act ſhall not extend to make good or confirm the Grant
+<pb n="8" facs="tcp:169320:6"/>
+of any Office or Place of Truſt given or granted, or pretended to be given or granted, by Patent, Charter, or otherwiſe, ſince the nineteenth day of <hi>April,</hi> in the year of our Lord one thouſand ſix hundred fifty three, and before the ſeventh day of <hi>May,</hi> in the year of our Lord one thouſand ſix hundred fifty nine; But that all ſuch be and are hereby declared to be in the diſpoſal of this Parliament, any thing in this Act to the contrary notwithſtanding, other then ſuch Offices and Places as have been diſ<g ref="char:EOLhyphen"/>poſed by, or derived from any perſon or perſons who had Power to diſpoſe there<g ref="char:EOLhyphen"/>of by Authority of Parliament, before the twentieth day of <hi>April,</hi> in the year of our Lord one thouſand ſix hundred fifty three, although ſuch Places or Offices have been diſpoſed ſince.</p>
+            <p>Provided always, That this Act ſhall not extend nor be conſtrued to extend to any matter or thing exhibited, or depending in Parliament, ſince the ſeventh day of <hi>May,</hi> in the year of our Lord one thouſand ſix hundred fifty nine, and before the twelfth of <hi>July,</hi> one thouſand ſix hundred fifty nine, for their judgement or reſolution.</p>
+            <p>And be it further Enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That all Moneys already paid for neceſſary Salaries and Allowances had or made to any perſon or perſons for the Adminiſtration of Iuſtice, or for the bringing in, or iſſuing out of the publique Re<g ref="char:EOLhyphen"/>venue,
+<pb n="9" facs="tcp:169320:6"/>
+or for the preſervation of the Com<g ref="char:EOLhyphen"/>monwealth, by the Armies, Navies, or Garriſons, or for Augmentation, Increaſe of Maintenance, or Allowance to any Mi<g ref="char:EOLhyphen"/>niſters, Lecturers, Schoolmaſters, Mem<g ref="char:EOLhyphen"/>bers of Vniverſities, or Colledges, or to Ambaſſadors, or other publique Miniſters imployed into Forein parts, or for the car<g ref="char:EOLhyphen"/>rying on of the Publique and neceſſary Affairs of the three Nations, ſhall be and are hereby made good and allowed, and the perſons who received the ſame, diſcharged and Indempnified.</p>
+            <p>And be it further Enacted, that all and every Perſon and Perſons, Bodies Poli<g ref="char:EOLhyphen"/>tique and Corporate, compriſed within and intended to be Pardoned, or Indempnified by this preſent Act, or which are Pardoned, Indempified, or intended to be Pardoned or Indempnified by any other Act, Ordi<g ref="char:EOLhyphen"/>nance, or Order of this preſent Parliament, ſhall and may in all Suits, Indictments, or other proſecution, plead the general Iſſue, and give this Act, or any other of the ſaid Acts, Ordinances, or Orders of this pre<g ref="char:EOLhyphen"/>ſent Parliament in Evidence; and if upon any Trial or other Proceedings, it ſhall ap<g ref="char:EOLhyphen"/>pear to the Court, Iudge, Iudges or Iury, or other perſons before whom ſuch Trial or proceedings ſhall be had, that the party or parties claiming Indempnity or Pardon, ought to have Indempnity or Pardon according to the true intent and meaning of this preſent Act, and all or any the afore<g ref="char:EOLhyphen"/>ſaid
+<pb n="10" facs="tcp:169320:7"/>
+Acts, Ordinances, or Orders of this preſent Parliament, then ſuch Iudge, Iudges, Iury, and other Perſons, and every of them reſpectively, are hereby Authoriſed and required to allow the ſame, and him or them accordingly Indempnifie and diſcharge, according to y<hi rend="sup">e</hi> true intent and meaning of the aforeſaid Acts, Ordinances, and Orders of Parliament, to all intents and purpoſes whatſoever, and are hereby Authoriſed and required to put in execution all and every the ſaid Powers, in as full and ample maner as any Committee or Com<g ref="char:EOLhyphen"/>miſſioners for Indempnity by Authority of Parliament were enabled to do, and all per<g ref="char:EOLhyphen"/>ſons concerned therein, are hereby required and enjoyned to take notice hereof, and to yield obedience accordingly.</p>
+            <p>And be it further Enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, that in caſe any Suit is or was depending in any Court of Law or Equity, the Ninth day of <hi>July,</hi> in the year of our Lord, One thouſand ſix hundred fifty and nine, or before, for or concerning any matter, cauſe, or thing, acted or done by any perſon or perſons whatſoever, ſince the third day of <hi>November,</hi> in the year of our Lord, One thouſand ſix hundred and forty, for the ſervice and advantage of the Parlia<g ref="char:EOLhyphen"/>ment or Commonwealth, and any Trial at Law is already had, or any Iudge<g ref="char:EOLhyphen"/>ment or Execution thereupon obtained a<g ref="char:EOLhyphen"/>gainſt any Perſon or Perſons whatſoever for the ſame, that the Iudges of the ſaid
+<pb n="11" facs="tcp:169320:7"/>
+Court, where any ſuch Suit or Cauſe is or was depending, are hereby Enabled, Authoriſed and Required to examine the ſame upon Oath, (which the ſaid Court is hereby Authoriſed to Adminiſter, to any witneſſes that ſhall be therein produced on either Party, upon Complaint to them to be made) and to give relief therein to all and every the perſons that are or have been ſo ſued, and ought to be Indempnified and Relieved, and alſo to give ſuch Coſts to him or them that ſhall be ſo Relieved therein, as to the ſaid Court ſhall be thought meet.</p>
+            <p>Provided always, That this Act nor any thing therein contained, ſhall be Adjudged, Conſtrued, or taken to Diſcharge or In<g ref="char:EOLhyphen"/>dempnifie any perſon or perſons who have Farmed the Exciſe and New Impoſt, or Cuſtoms, or any part thereof, who have not payed in the Arrears of Money due to the Commonwealth, for the Rent or Rents of their reſpective Farms, or ſhall not pay in the ſame at ſuch days and times, as the Committee for Inſpection of the Treaſu<g ref="char:EOLhyphen"/>ries ſhall think fit, or otherwiſe that the ſaid Farmers ſhall have no benefit of this preſent Act,</p>
+            <p>Provided always, That no perſon of the age of ſixteen years and upwards, and be<g ref="char:EOLhyphen"/>ing of ſane Memory, who ſhall Claim or Demand benefit of Indempnity or Pardon by virtue of this Act, be admitted there<g ref="char:EOLhyphen"/>unto,
+<pb n="12" facs="tcp:169320:8"/>
+until it appear to ſuch perſon or per<g ref="char:EOLhyphen"/>ſons, before whom ſuch Claim or Demand is made, That the ſaid perſons ſo Claim<g ref="char:EOLhyphen"/>ing or Demanding, hath made and ſub<g ref="char:EOLhyphen"/>ſcribed, or ſhall then ſubſcribe this Decla<g ref="char:EOLhyphen"/>ration following; That is to ſay,</p>
+            <p>
+               <q>
+                  <hi>I do Declare, That through the gracious aſsi<g ref="char:EOLhyphen"/>ſtance of Almighty God, I will be true, faithful, and conſtant to this Commonwealth, without a ſingle Perſon, Kingſhip, or Houſe of Peers.</hi>
+               </q>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Tueſday 12 of July, 1659.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>THO. S<hi rend="sup">t</hi> NICHOLAS Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
